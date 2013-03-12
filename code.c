@@ -311,8 +311,7 @@ int main(int argc, char *argv[])
     find_min_max_values(file);
     fseek(file, 0, SEEK_SET);
 
-    //basicMeasure *bm = (basicMeasure*)malloc(sizeof(basicMeasure));
-    basicMeasure *bm = NULL;// = (basicMeasure*)malloc(sizeof(basicMeasure));
+    basicMeasure *bm = NULL;
     int frame_count = 0;
     if(parse_emotion_file(file, &frame_count, &bm) > 0)
     {
@@ -331,7 +330,6 @@ int main(int argc, char *argv[])
 
     printf("\n\n");
 
-    //free(bm);
     //close the csv file
     fclose ( file );
     return 0;

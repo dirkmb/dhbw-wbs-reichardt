@@ -20,7 +20,7 @@ float PIXEL_MUND_MIN  = 0;
 #define UNIT5_PROBABILITY 0.7
 
 //wie warscheinlich ist es das keiner unserer ausgelesenen werte passt.
-#define REMAINING_PROBABILITY 0.3
+#define REMAINING_PROBABILITY 0.2
 
 
 //replace this sign with '.' for float numbers
