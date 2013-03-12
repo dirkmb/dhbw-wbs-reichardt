@@ -1,4 +1,6 @@
 
+FLAGS = -ggdb -Wall
+
 all: 
-	gcc code.c dempster.c  -lm -o dhbw-wbs-reichard
+	gcc ${FLAGS} *.c  -lm -o dhbw-wbs-reichardt
 
