@@ -1,0 +1,796 @@
+Min Values: Stirn: 95.60 	| Mund: 24.60 
+Max Values: Stirn: 1545.20 	| Mund: 303.00 
+
+- - - - -
+
+read next frame:  FrameNr.:  1 | Unit5: 0 | Stirn: 301 | Mund: 171 
+
+Frame   1	 Gefühl		 Nr : Pl(x)  |  B(x)   |  Z(x) 
+		(Angst  )	[0] : 0.387  |  0.276  | 0.613 
+		(Wut    )	[1] : 0.534  |  0.423  | 0.466 
+		(Freude )	[2] : 0.279  |  0.190  | 0.721 
+
+Accumulated measures over the last 7 frames:
+Frame 1 bis 1	 Gefühl		 Nr : Pl(x)  |  B(x)   |  Z(x) 
+		(Angst  )	[0] : 0.387  |  0.276  | 0.613 
+		(Wut    )	[1] : 0.534  |  0.423  | 0.466 
+		(Freude )	[2] : 0.279  |  0.190  | 0.721 
+
+- - - - -
+
+read next frame:  FrameNr.:  2 | Unit5: 0 | Stirn: 328 | Mund: 141 
+
+Frame   2	 Gefühl		 Nr : Pl(x)  |  B(x)   |  Z(x) 
+		(Angst  )	[0] : 0.471  |  0.365  | 0.529 
+		(Wut    )	[1] : 0.500  |  0.393  | 0.500 
+		(Freude )	[2] : 0.221  |  0.136  | 0.779 
+
+Accumulated measures over the last 7 frames:
+Frame 1 bis 2	 Gefühl		 Nr : Pl(x)  |  B(x)   |  Z(x) 
+		(Angst  )	[0] : 0.387  |  0.276  | 0.613 
+		(Wut    )	[1] : 0.534  |  0.423  | 0.466 
+		(Freude )	[2] : 0.279  |  0.190  | 0.721 
+
+- - - - -
+
+read next frame:  FrameNr.:  3 | Unit5: 0 | Stirn: 387 | Mund: 150 
+
+Frame   3	 Gefühl		 Nr : Pl(x)  |  B(x)   |  Z(x) 
+		(Angst  )	[0] : 0.500  |  0.398  | 0.500 
+		(Wut    )	[1] : 0.459  |  0.357  | 0.541 
+		(Freude )	[2] : 0.225  |  0.143  | 0.775 
+
+Accumulated measures over the last 7 frames:
+Frame 1 bis 3	 Gefühl		 Nr : Pl(x)  |  B(x)   |  Z(x) 
+		(Angst  )	[0] : 0.371  |  0.347  | 0.629 
+		(Wut    )	[1] : 0.543  |  0.519  | 0.457 
+		(Freude )	[2] : 0.125  |  0.110  | 0.875 
+
+- - - - -
+
+read next frame:  FrameNr.:  4 | Unit5: 0 | Stirn: 329 | Mund: 126 
+
+Frame   4	 Gefühl		 Nr : Pl(x)  |  B(x)   |  Z(x) 
+		(Angst  )	[0] : 0.503  |  0.398  | 0.497 
+		(Wut    )	[1] : 0.491  |  0.387  | 0.509 
+		(Freude )	[2] : 0.194  |  0.111  | 0.806 
+
+Accumulated measures over the last 7 frames:
+Frame 1 bis 4	 Gefühl		 Nr : Pl(x)  |  B(x)   |  Z(x) 
+		(Angst  )	[0] : 0.404  |  0.399  | 0.596 
+		(Wut    )	[1] : 0.543  |  0.538  | 0.457 
+		(Freude )	[2] : 0.061  |  0.059  | 0.939 
+
+- - - - -
+
+read next frame:  FrameNr.:  5 | Unit5: 0 | Stirn: 378 | Mund: 122 
+
+Frame   5	 Gefühl		 Nr : Pl(x)  |  B(x)   |  Z(x) 
+		(Angst  )	[0] : 0.550  |  0.451  | 0.450 
+		(Wut    )	[1] : 0.450  |  0.351  | 0.550 
+		(Freude )	[2] : 0.179  |  0.099  | 0.821 
+
+Accumulated measures over the last 7 frames:
+Frame 1 bis 5	 Gefühl		 Nr : Pl(x)  |  B(x)   |  Z(x) 
+		(Angst  )	[0] : 0.422  |  0.421  | 0.578 
+		(Wut    )	[1] : 0.555  |  0.554  | 0.445 
+		(Freude )	[2] : 0.025  |  0.024  | 0.975 
+
+- - - - -
+
+read next frame:  FrameNr.:  6 | Unit5: 0 | Stirn: 367 | Mund: 60 
+
+Frame   6	 Gefühl		 Nr : Pl(x)  |  B(x)   |  Z(x) 
+		(Angst  )	[0] : 0.655  |  0.561  | 0.345 
+		(Wut    )	[1] : 0.428  |  0.334  | 0.572 
+		(Freude )	[2] : 0.086  |  0.010  | 0.914 
+
+Accumulated measures over the last 7 frames:
+Frame 1 bis 6	 Gefühl		 Nr : Pl(x)  |  B(x)   |  Z(x) 
+		(Angst  )	[0] : 0.478  |  0.477  | 0.522 
+		(Wut    )	[1] : 0.514  |  0.513  | 0.486 
+		(Freude )	[2] : 0.009  |  0.009  | 0.991 
+
+- - - - -
+
+read next frame:  FrameNr.:  7 | Unit5: 0 | Stirn: 333 | Mund: 55 
+
+Frame   7	 Gefühl		 Nr : Pl(x)  |  B(x)   |  Z(x) 
+		(Angst  )	[0] : 0.638  |  0.541  | 0.362 
+		(Wut    )	[1] : 0.456  |  0.359  | 0.544 
+		(Freude )	[2] : 0.081  |  0.003  | 0.919 
+
+Accumulated measures over the last 7 frames:
+Frame 1 bis 7	 Gefühl		 Nr : Pl(x)  |  B(x)   |  Z(x) 
+		(Angst  )	[0] : 0.586  |  0.586  | 0.414 
+		(Wut    )	[1] : 0.412  |  0.412  | 0.588 
+		(Freude )	[2] : 0.001  |  0.001  | 0.999 
+
+- - - - -
+
+read next frame:  FrameNr.:  8 | Unit5: 0 | Stirn: 391 | Mund: 73 
+
+Frame   8	 Gefühl		 Nr : Pl(x)  |  B(x)   |  Z(x) 
+		(Angst  )	[0] : 0.651  |  0.559  | 0.349 
+		(Wut    )	[1] : 0.414  |  0.322  | 0.586 
+		(Freude )	[2] : 0.101  |  0.027  | 0.899 
+
+Accumulated measures over the last 7 frames:
+Frame 1 bis 8	 Gefühl		 Nr : Pl(x)  |  B(x)   |  Z(x) 
+		(Angst  )	[0] : 0.812  |  0.812  | 0.188 
+		(Wut    )	[1] : 0.188  |  0.188  | 0.812 
+		(Freude )	[2] : 0.000  |  0.000  | 1.000 
+
+- - - - -
+
+read next frame:  FrameNr.:  9 | Unit5: 0 | Stirn: 371 | Mund: 66 
+
+Frame   9	 Gefühl		 Nr : Pl(x)  |  B(x)   |  Z(x) 
+		(Angst  )	[0] : 0.648  |  0.554  | 0.352 
+		(Wut    )	[1] : 0.427  |  0.334  | 0.573 
+		(Freude )	[2] : 0.093  |  0.018  | 0.907 
+
+Accumulated measures over the last 7 frames:
+Frame 2 bis 9	 Gefühl		 Nr : Pl(x)  |  B(x)   |  Z(x) 
+		(Angst  )	[0] : 0.874  |  0.874  | 0.126 
+		(Wut    )	[1] : 0.126  |  0.126  | 0.874 
+		(Freude )	[2] : 0.000  |  0.000  | 1.000 
+
+- - - - -
+
+read next frame:  FrameNr.: 10 | Unit5: 0 | Stirn: 322 | Mund: 57 
+
+Frame  10	 Gefühl		 Nr : Pl(x)  |  B(x)   |  Z(x) 
+		(Angst  )	[0] : 0.624  |  0.525  | 0.376 
+		(Wut    )	[1] : 0.468  |  0.369  | 0.532 
+		(Freude )	[2] : 0.086  |  0.007  | 0.914 
+
+Accumulated measures over the last 7 frames:
+Frame 3 bis 10	 Gefühl		 Nr : Pl(x)  |  B(x)   |  Z(x) 
+		(Angst  )	[0] : 0.895  |  0.895  | 0.105 
+		(Wut    )	[1] : 0.105  |  0.105  | 0.895 
+		(Freude )	[2] : 0.000  |  0.000  | 1.000 
+
+- - - - -
+
+read next frame:  FrameNr.: 11 | Unit5: 0 | Stirn: 381 | Mund: 69 
+
+Frame  11	 Gefühl		 Nr : Pl(x)  |  B(x)   |  Z(x) 
+		(Angst  )	[0] : 0.651  |  0.558  | 0.349 
+		(Wut    )	[1] : 0.420  |  0.327  | 0.580 
+		(Freude )	[2] : 0.096  |  0.022  | 0.904 
+
+Accumulated measures over the last 7 frames:
+Frame 4 bis 11	 Gefühl		 Nr : Pl(x)  |  B(x)   |  Z(x) 
+		(Angst  )	[0] : 0.928  |  0.928  | 0.072 
+		(Wut    )	[1] : 0.072  |  0.072  | 0.928 
+		(Freude )	[2] : 0.000  |  0.000  | 1.000 
+Feeling found: 'Angst  '[0]
+
+- - - - -
+
+read next frame:  FrameNr.: 12 | Unit5: 0 | Stirn: 322 | Mund: 59 
+
+Frame  12	 Gefühl		 Nr : Pl(x)  |  B(x)   |  Z(x) 
+		(Angst  )	[0] : 0.622  |  0.522  | 0.378 
+		(Wut    )	[1] : 0.469  |  0.369  | 0.531 
+		(Freude )	[2] : 0.089  |  0.009  | 0.911 
+
+Accumulated measures over the last 7 frames:
+Frame 5 bis 12	 Gefühl		 Nr : Pl(x)  |  B(x)   |  Z(x) 
+		(Angst  )	[0] : 0.933  |  0.933  | 0.067 
+		(Wut    )	[1] : 0.067  |  0.067  | 0.933 
+		(Freude )	[2] : 0.000  |  0.000  | 1.000 
+Feeling found: 'Angst  '[0]
+
+- - - - -
+
+read next frame:  FrameNr.: 13 | Unit5: 0 | Stirn: 372 | Mund: 101 
+
+Frame  13	 Gefühl		 Nr : Pl(x)  |  B(x)   |  Z(x) 
+		(Angst  )	[0] : 0.586  |  0.488  | 0.414 
+		(Wut    )	[1] : 0.444  |  0.346  | 0.556 
+		(Freude )	[2] : 0.146  |  0.068  | 0.854 
+
+Accumulated measures over the last 7 frames:
+Frame 6 bis 13	 Gefühl		 Nr : Pl(x)  |  B(x)   |  Z(x) 
+		(Angst  )	[0] : 0.923  |  0.923  | 0.077 
+		(Wut    )	[1] : 0.077  |  0.077  | 0.923 
+		(Freude )	[2] : 0.000  |  0.000  | 1.000 
+Feeling found: 'Angst  '[0]
+
+- - - - -
+
+read next frame:  FrameNr.: 14 | Unit5: 0 | Stirn: 278 | Mund: 127 
+
+Frame  14	 Gefühl		 Nr : Pl(x)  |  B(x)   |  Z(x) 
+		(Angst  )	[0] : 0.455  |  0.344  | 0.545 
+		(Wut    )	[1] : 0.537  |  0.427  | 0.463 
+		(Freude )	[2] : 0.207  |  0.119  | 0.793 
+
+Accumulated measures over the last 7 frames:
+Frame 7 bis 14	 Gefühl		 Nr : Pl(x)  |  B(x)   |  Z(x) 
+		(Angst  )	[0] : 0.879  |  0.879  | 0.121 
+		(Wut    )	[1] : 0.121  |  0.121  | 0.879 
+		(Freude )	[2] : 0.000  |  0.000  | 1.000 
+
+- - - - -
+
+read next frame:  FrameNr.: 15 | Unit5: 0 | Stirn: 329 | Mund: 169 
+
+Frame  15	 Gefühl		 Nr : Pl(x)  |  B(x)   |  Z(x) 
+		(Angst  )	[0] : 0.413  |  0.304  | 0.587 
+		(Wut    )	[1] : 0.513  |  0.403  | 0.487 
+		(Freude )	[2] : 0.271  |  0.183  | 0.729 
+
+Accumulated measures over the last 7 frames:
+Frame 8 bis 15	 Gefühl		 Nr : Pl(x)  |  B(x)   |  Z(x) 
+		(Angst  )	[0] : 0.789  |  0.789  | 0.211 
+		(Wut    )	[1] : 0.211  |  0.211  | 0.789 
+		(Freude )	[2] : 0.000  |  0.000  | 1.000 
+
+- - - - -
+
+read next frame:  FrameNr.: 16 | Unit5: 0 | Stirn: 233 | Mund: 152 
+
+Frame  16	 Gefühl		 Nr : Pl(x)  |  B(x)   |  Z(x) 
+		(Angst  )	[0] : 0.398  |  0.334  | 0.602 
+		(Wut    )	[1] : 0.575  |  0.512  | 0.425 
+		(Freude )	[2] : 0.142  |  0.091  | 0.858 
+
+Accumulated measures over the last 7 frames:
+Frame 9 bis 16	 Gefühl		 Nr : Pl(x)  |  B(x)   |  Z(x) 
+		(Angst  )	[0] : 0.630  |  0.630  | 0.370 
+		(Wut    )	[1] : 0.370  |  0.370  | 0.630 
+		(Freude )	[2] : 0.000  |  0.000  | 1.000 
+
+- - - - -
+
+read next frame:  FrameNr.: 17 | Unit5: 0 | Stirn: 290 | Mund: 175 
+
+Frame  17	 Gefühl		 Nr : Pl(x)  |  B(x)   |  Z(x) 
+		(Angst  )	[0] : 0.369  |  0.257  | 0.631 
+		(Wut    )	[1] : 0.545  |  0.432  | 0.455 
+		(Freude )	[2] : 0.289  |  0.199  | 0.711 
+
+Accumulated measures over the last 7 frames:
+Frame 10 bis 17	 Gefühl		 Nr : Pl(x)  |  B(x)   |  Z(x) 
+		(Angst  )	[0] : 0.465  |  0.465  | 0.535 
+		(Wut    )	[1] : 0.535  |  0.535  | 0.465 
+		(Freude )	[2] : 0.000  |  0.000  | 1.000 
+
+- - - - -
+
+read next frame:  FrameNr.: 18 | Unit5: 0 | Stirn: 334 | Mund: 178 
+
+Frame  18	 Gefühl		 Nr : Pl(x)  |  B(x)   |  Z(x) 
+		(Angst  )	[0] : 0.398  |  0.289  | 0.602 
+		(Wut    )	[1] : 0.513  |  0.404  | 0.487 
+		(Freude )	[2] : 0.286  |  0.198  | 0.714 
+
+Accumulated measures over the last 7 frames:
+Frame 11 bis 18	 Gefühl		 Nr : Pl(x)  |  B(x)   |  Z(x) 
+		(Angst  )	[0] : 0.303  |  0.303  | 0.697 
+		(Wut    )	[1] : 0.696  |  0.696  | 0.304 
+		(Freude )	[2] : 0.001  |  0.001  | 0.999 
+
+- - - - -
+
+read next frame:  FrameNr.: 19 | Unit5: 0 | Stirn: 390 | Mund: 180 
+
+Frame  19	 Gefühl		 Nr : Pl(x)  |  B(x)   |  Z(x) 
+		(Angst  )	[0] : 0.436  |  0.330  | 0.564 
+		(Wut    )	[1] : 0.476  |  0.370  | 0.524 
+		(Freude )	[2] : 0.279  |  0.195  | 0.721 
+
+Accumulated measures over the last 7 frames:
+Frame 12 bis 19	 Gefühl		 Nr : Pl(x)  |  B(x)   |  Z(x) 
+		(Angst  )	[0] : 0.230  |  0.230  | 0.770 
+		(Wut    )	[1] : 0.767  |  0.767  | 0.233 
+		(Freude )	[2] : 0.002  |  0.002  | 0.998 
+
+- - - - -
+
+read next frame:  FrameNr.: 20 | Unit5: 0 | Stirn: 407 | Mund: 171 
+
+Frame  20	 Gefühl		 Nr : Pl(x)  |  B(x)   |  Z(x) 
+		(Angst  )	[0] : 0.469  |  0.366  | 0.531 
+		(Wut    )	[1] : 0.458  |  0.355  | 0.542 
+		(Freude )	[2] : 0.259  |  0.176  | 0.741 
+
+Accumulated measures over the last 7 frames:
+Frame 13 bis 20	 Gefühl		 Nr : Pl(x)  |  B(x)   |  Z(x) 
+		(Angst  )	[0] : 0.188  |  0.188  | 0.812 
+		(Wut    )	[1] : 0.808  |  0.808  | 0.192 
+		(Freude )	[2] : 0.004  |  0.004  | 0.996 
+
+- - - - -
+
+read next frame:  FrameNr.: 21 | Unit5: 0 | Stirn: 549 | Mund: 141 
+
+Frame  21	 Gefühl		 Nr : Pl(x)  |  B(x)   |  Z(x) 
+		(Angst  )	[0] : 0.625  |  0.536  | 0.375 
+		(Wut    )	[1] : 0.350  |  0.261  | 0.650 
+		(Freude )	[2] : 0.185  |  0.114  | 0.815 
+
+Accumulated measures over the last 7 frames:
+Frame 14 bis 21	 Gefühl		 Nr : Pl(x)  |  B(x)   |  Z(x) 
+		(Angst  )	[0] : 0.327  |  0.327  | 0.673 
+		(Wut    )	[1] : 0.668  |  0.668  | 0.332 
+		(Freude )	[2] : 0.004  |  0.004  | 0.996 
+
+- - - - -
+
+read next frame:  FrameNr.: 22 | Unit5: 1 | Stirn: 764 | Mund: 150 
+
+Frame  22	 Gefühl		 Nr : Pl(x)  |  B(x)   |  Z(x) 
+		(Angst  )	[0] : 0.748  |  0.666  | 0.252 
+		(Wut    )	[1] : 0.262  |  0.180  | 0.738 
+		(Freude )	[2] : 0.113  |  0.072  | 0.887 
+
+Accumulated measures over the last 7 frames:
+Frame 15 bis 22	 Gefühl		 Nr : Pl(x)  |  B(x)   |  Z(x) 
+		(Angst  )	[0] : 0.633  |  0.633  | 0.367 
+		(Wut    )	[1] : 0.365  |  0.365  | 0.635 
+		(Freude )	[2] : 0.002  |  0.002  | 0.998 
+
+- - - - -
+
+read next frame:  FrameNr.: 23 | Unit5: 1 | Stirn: 1135 | Mund: 126 
+
+Frame  23	 Gefühl		 Nr : Pl(x)  |  B(x)   |  Z(x) 
+		(Angst  )	[0] : 0.905  |  0.845  | 0.095 
+		(Wut    )	[1] : 0.115  |  0.055  | 0.885 
+		(Freude )	[2] : 0.070  |  0.040  | 0.930 
+
+Accumulated measures over the last 7 frames:
+Frame 16 bis 23	 Gefühl		 Nr : Pl(x)  |  B(x)   |  Z(x) 
+		(Angst  )	[0] : 0.951  |  0.951  | 0.049 
+		(Wut    )	[1] : 0.048  |  0.048  | 0.952 
+		(Freude )	[2] : 0.001  |  0.001  | 0.999 
+Feeling found: 'Angst  '[0]
+
+- - - - -
+
+read next frame:  FrameNr.: 24 | Unit5: 1 | Stirn: 1495 | Mund: 122 
+
+Frame  24	 Gefühl		 Nr : Pl(x)  |  B(x)   |  Z(x) 
+		(Angst  )	[0] : 0.974  |  0.947  | 0.026 
+		(Wut    )	[1] : 0.036  |  0.009  | 0.964 
+		(Freude )	[2] : 0.030  |  0.017  | 0.970 
+
+Accumulated measures over the last 7 frames:
+Frame 17 bis 24	 Gefühl		 Nr : Pl(x)  |  B(x)   |  Z(x) 
+		(Angst  )	[0] : 0.999  |  0.999  | 0.001 
+		(Wut    )	[1] : 0.001  |  0.001  | 0.999 
+		(Freude )	[2] : 0.000  |  0.000  | 1.000 
+Feeling found: 'Angst  '[0]
+
+- - - - -
+
+read next frame:  FrameNr.: 25 | Unit5: 1 | Stirn: 1441 | Mund: 60 
+
+Frame  25	 Gefühl		 Nr : Pl(x)  |  B(x)   |  Z(x) 
+		(Angst  )	[0] : 0.983  |  0.961  | 0.017 
+		(Wut    )	[1] : 0.038  |  0.016  | 0.962 
+		(Freude )	[2] : 0.012  |  0.002  | 0.988 
+
+Accumulated measures over the last 7 frames:
+Frame 18 bis 25	 Gefühl		 Nr : Pl(x)  |  B(x)   |  Z(x) 
+		(Angst  )	[0] : 1.000  |  1.000  | 0.000 
+		(Wut    )	[1] : 0.000  |  0.000  | 1.000 
+		(Freude )	[2] : 0.000  |  0.000  | 1.000 
+Feeling found: 'Angst  '[0]
+
+- - - - -
+
+read next frame:  FrameNr.: 26 | Unit5: 1 | Stirn: 1277 | Mund: 55 
+
+Frame  26	 Gefühl		 Nr : Pl(x)  |  B(x)   |  Z(x) 
+		(Angst  )	[0] : 0.981  |  0.938  | 0.019 
+		(Wut    )	[1] : 0.062  |  0.018  | 0.938 
+		(Freude )	[2] : 0.022  |  0.001  | 0.978 
+
+Accumulated measures over the last 7 frames:
+Frame 19 bis 26	 Gefühl		 Nr : Pl(x)  |  B(x)   |  Z(x) 
+		(Angst  )	[0] : 1.000  |  1.000  | 0.000 
+		(Wut    )	[1] : 0.000  |  0.000  | 1.000 
+		(Freude )	[2] : -0.000  |  0.000  | 1.000 
+Feeling found: 'Angst  '[0]
+
+- - - - -
+
+read next frame:  FrameNr.: 27 | Unit5: 1 | Stirn: 1443 | Mund: 73 
+
+Frame  27	 Gefühl		 Nr : Pl(x)  |  B(x)   |  Z(x) 
+		(Angst  )	[0] : 0.980  |  0.957  | 0.020 
+		(Wut    )	[1] : 0.039  |  0.016  | 0.961 
+		(Freude )	[2] : 0.016  |  0.004  | 0.984 
+
+Accumulated measures over the last 7 frames:
+Frame 20 bis 27	 Gefühl		 Nr : Pl(x)  |  B(x)   |  Z(x) 
+		(Angst  )	[0] : 1.000  |  1.000  | 0.000 
+		(Wut    )	[1] : -0.000  |  0.000  | 1.000 
+		(Freude )	[2] : -0.000  |  0.000  | 1.000 
+Feeling found: 'Angst  '[0]
+
+- - - - -
+
+read next frame:  FrameNr.: 28 | Unit5: 1 | Stirn: 1197 | Mund: 66 
+
+Frame  28	 Gefühl		 Nr : Pl(x)  |  B(x)   |  Z(x) 
+		(Angst  )	[0] : 0.961  |  0.914  | 0.039 
+		(Wut    )	[1] : 0.080  |  0.033  | 0.920 
+		(Freude )	[2] : 0.029  |  0.006  | 0.971 
+
+Accumulated measures over the last 7 frames:
+Frame 21 bis 28	 Gefühl		 Nr : Pl(x)  |  B(x)   |  Z(x) 
+		(Angst  )	[0] : 1.000  |  1.000  | 0.000 
+		(Wut    )	[1] : -0.000  |  0.000  | 1.000 
+		(Freude )	[2] : -0.000  |  0.000  | 1.000 
+Feeling found: 'Angst  '[0]
+
+- - - - -
+
+read next frame:  FrameNr.: 29 | Unit5: 1 | Stirn: 1382 | Mund: 57 
+
+Frame  29	 Gefühl		 Nr : Pl(x)  |  B(x)   |  Z(x) 
+		(Angst  )	[0] : 0.996  |  0.954  | 0.004 
+		(Wut    )	[1] : 0.044  |  0.003  | 0.956 
+		(Freude )	[2] : 0.022  |  0.002  | 0.978 
+
+Accumulated measures over the last 7 frames:
+Frame 22 bis 29	 Gefühl		 Nr : Pl(x)  |  B(x)   |  Z(x) 
+		(Angst  )	[0] : 1.000  |  1.000  | 0.000 
+		(Wut    )	[1] : -0.000  |  0.000  | 1.000 
+		(Freude )	[2] : -0.000  |  0.000  | 1.000 
+Feeling found: 'Angst  '[0]
+
+- - - - -
+
+read next frame:  FrameNr.: 30 | Unit5: 1 | Stirn: 1298 | Mund: 69 
+
+Frame  30	 Gefühl		 Nr : Pl(x)  |  B(x)   |  Z(x) 
+		(Angst  )	[0] : 0.978  |  0.933  | 0.022 
+		(Wut    )	[1] : 0.060  |  0.016  | 0.940 
+		(Freude )	[2] : 0.029  |  0.006  | 0.971 
+
+Accumulated measures over the last 7 frames:
+Frame 23 bis 30	 Gefühl		 Nr : Pl(x)  |  B(x)   |  Z(x) 
+		(Angst  )	[0] : 1.000  |  1.000  | 0.000 
+		(Wut    )	[1] : -0.000  |  0.000  | 1.000 
+		(Freude )	[2] : -0.000  |  0.000  | 1.000 
+Feeling found: 'Angst  '[0]
+
+- - - - -
+
+read next frame:  FrameNr.: 31 | Unit5: 1 | Stirn: 1235 | Mund: 59 
+
+Frame  31	 Gefühl		 Nr : Pl(x)  |  B(x)   |  Z(x) 
+		(Angst  )	[0] : 0.972  |  0.927  | 0.028 
+		(Wut    )	[1] : 0.071  |  0.026  | 0.929 
+		(Freude )	[2] : 0.025  |  0.003  | 0.975 
+
+Accumulated measures over the last 7 frames:
+Frame 24 bis 31	 Gefühl		 Nr : Pl(x)  |  B(x)   |  Z(x) 
+		(Angst  )	[0] : 1.000  |  1.000  | 0.000 
+		(Wut    )	[1] : -0.000  |  0.000  | 1.000 
+		(Freude )	[2] : -0.000  |  0.000  | 1.000 
+Feeling found: 'Angst  '[0]
+
+- - - - -
+
+read next frame:  FrameNr.: 32 | Unit5: 1 | Stirn: 1289 | Mund: 101 
+
+Frame  32	 Gefühl		 Nr : Pl(x)  |  B(x)   |  Z(x) 
+		(Angst  )	[0] : 0.959  |  0.909  | 0.041 
+		(Wut    )	[1] : 0.069  |  0.019  | 0.931 
+		(Freude )	[2] : 0.047  |  0.022  | 0.953 
+
+Accumulated measures over the last 7 frames:
+Frame 25 bis 32	 Gefühl		 Nr : Pl(x)  |  B(x)   |  Z(x) 
+		(Angst  )	[0] : 1.000  |  1.000  | 0.000 
+		(Wut    )	[1] : -0.000  |  0.000  | 1.000 
+		(Freude )	[2] : -0.000  |  0.000  | 1.000 
+Feeling found: 'Angst  '[0]
+
+- - - - -
+
+read next frame:  FrameNr.: 33 | Unit5: 0 | Stirn: 1028 | Mund: 127 
+
+Frame  33	 Gefühl		 Nr : Pl(x)  |  B(x)   |  Z(x) 
+		(Angst  )	[0] : 0.852  |  0.789  | 0.148 
+		(Wut    )	[1] : 0.143  |  0.081  | 0.857 
+		(Freude )	[2] : 0.118  |  0.068  | 0.882 
+
+Accumulated measures over the last 7 frames:
+Frame 26 bis 33	 Gefühl		 Nr : Pl(x)  |  B(x)   |  Z(x) 
+		(Angst  )	[0] : 1.000  |  1.000  | 0.000 
+		(Wut    )	[1] : 0.000  |  0.000  | 1.000 
+		(Freude )	[2] : 0.000  |  0.000  | 1.000 
+Feeling found: 'Angst  '[0]
+
+- - - - -
+
+read next frame:  FrameNr.: 34 | Unit5: 0 | Stirn: 729 | Mund: 169 
+
+Frame  34	 Gefühl		 Nr : Pl(x)  |  B(x)   |  Z(x) 
+		(Angst  )	[0] : 0.661  |  0.576  | 0.339 
+		(Wut    )	[1] : 0.281  |  0.196  | 0.719 
+		(Freude )	[2] : 0.211  |  0.143  | 0.789 
+
+Accumulated measures over the last 7 frames:
+Frame 27 bis 34	 Gefühl		 Nr : Pl(x)  |  B(x)   |  Z(x) 
+		(Angst  )	[0] : 1.000  |  1.000  | 0.000 
+		(Wut    )	[1] : 0.000  |  0.000  | 1.000 
+		(Freude )	[2] : 0.000  |  0.000  | 1.000 
+Feeling found: 'Angst  '[0]
+
+- - - - -
+
+read next frame:  FrameNr.: 35 | Unit5: 0 | Stirn: 482 | Mund: 227 
+
+Frame  35	 Gefühl		 Nr : Pl(x)  |  B(x)   |  Z(x) 
+		(Angst  )	[0] : 0.376  |  0.266  | 0.624 
+		(Wut    )	[1] : 0.458  |  0.348  | 0.542 
+		(Freude )	[2] : 0.363  |  0.275  | 0.637 
+
+Accumulated measures over the last 7 frames:
+Frame 28 bis 35	 Gefühl		 Nr : Pl(x)  |  B(x)   |  Z(x) 
+		(Angst  )	[0] : 1.000  |  1.000  | 0.000 
+		(Wut    )	[1] : 0.000  |  0.000  | 1.000 
+		(Freude )	[2] : 0.000  |  0.000  | 1.000 
+Feeling found: 'Angst  '[0]
+
+- - - - -
+
+read next frame:  FrameNr.: 36 | Unit5: 0 | Stirn: 298 | Mund: 273 
+
+Frame  36	 Gefühl		 Nr : Pl(x)  |  B(x)   |  Z(x) 
+		(Angst  )	[0] : 0.152  |  0.030  | 0.848 
+		(Wut    )	[1] : 0.584  |  0.463  | 0.416 
+		(Freude )	[2] : 0.483  |  0.386  | 0.517 
+
+Accumulated measures over the last 7 frames:
+Frame 29 bis 36	 Gefühl		 Nr : Pl(x)  |  B(x)   |  Z(x) 
+		(Angst  )	[0] : 1.000  |  1.000  | 0.000 
+		(Wut    )	[1] : 0.000  |  0.000  | 1.000 
+		(Freude )	[2] : 0.000  |  0.000  | 1.000 
+Feeling found: 'Angst  '[0]
+
+- - - - -
+
+read next frame:  FrameNr.: 37 | Unit5: 0 | Stirn: 294 | Mund: 253 
+
+Frame  37	 Gefühl		 Nr : Pl(x)  |  B(x)   |  Z(x) 
+		(Angst  )	[0] : 0.197  |  0.078  | 0.803 
+		(Wut    )	[1] : 0.577  |  0.457  | 0.423 
+		(Freude )	[2] : 0.442  |  0.346  | 0.558 
+
+Accumulated measures over the last 7 frames:
+Frame 30 bis 37	 Gefühl		 Nr : Pl(x)  |  B(x)   |  Z(x) 
+		(Angst  )	[0] : 0.994  |  0.994  | 0.006 
+		(Wut    )	[1] : 0.005  |  0.005  | 0.995 
+		(Freude )	[2] : 0.000  |  0.000  | 1.000 
+Feeling found: 'Angst  '[0]
+
+- - - - -
+
+read next frame:  FrameNr.: 38 | Unit5: 0 | Stirn: 262 | Mund: 241 
+
+Frame  38	 Gefühl		 Nr : Pl(x)  |  B(x)   |  Z(x) 
+		(Angst  )	[0] : 0.207  |  0.088  | 0.793 
+		(Wut    )	[1] : 0.589  |  0.469  | 0.411 
+		(Freude )	[2] : 0.419  |  0.323  | 0.581 
+
+Accumulated measures over the last 7 frames:
+Frame 31 bis 38	 Gefühl		 Nr : Pl(x)  |  B(x)   |  Z(x) 
+		(Angst  )	[0] : 0.811  |  0.811  | 0.189 
+		(Wut    )	[1] : 0.164  |  0.164  | 0.836 
+		(Freude )	[2] : 0.024  |  0.024  | 0.976 
+
+- - - - -
+
+read next frame:  FrameNr.: 39 | Unit5: 0 | Stirn: 343 | Mund: 227 
+
+Frame  39	 Gefühl		 Nr : Pl(x)  |  B(x)   |  Z(x) 
+		(Angst  )	[0] : 0.291  |  0.176  | 0.709 
+		(Wut    )	[1] : 0.535  |  0.420  | 0.465 
+		(Freude )	[2] : 0.381  |  0.289  | 0.619 
+
+Accumulated measures over the last 7 frames:
+Frame 32 bis 39	 Gefühl		 Nr : Pl(x)  |  B(x)   |  Z(x) 
+		(Angst  )	[0] : 0.144  |  0.144  | 0.856 
+		(Wut    )	[1] : 0.740  |  0.740  | 0.260 
+		(Freude )	[2] : 0.116  |  0.116  | 0.884 
+
+- - - - -
+
+read next frame:  FrameNr.: 40 | Unit5: 0 | Stirn: 421 | Mund: 216 
+
+Frame  40	 Gefühl		 Nr : Pl(x)  |  B(x)   |  Z(x) 
+		(Angst  )	[0] : 0.370  |  0.260  | 0.630 
+		(Wut    )	[1] : 0.482  |  0.372  | 0.518 
+		(Freude )	[2] : 0.346  |  0.258  | 0.654 
+
+Accumulated measures over the last 7 frames:
+Frame 33 bis 40	 Gefühl		 Nr : Pl(x)  |  B(x)   |  Z(x) 
+		(Angst  )	[0] : 0.022  |  0.022  | 0.978 
+		(Wut    )	[1] : 0.861  |  0.861  | 0.139 
+		(Freude )	[2] : 0.118  |  0.118  | 0.882 
+
+- - - - -
+
+read next frame:  FrameNr.: 41 | Unit5: 0 | Stirn: 385 | Mund: 210 
+
+Frame  41	 Gefühl		 Nr : Pl(x)  |  B(x)   |  Z(x) 
+		(Angst  )	[0] : 0.361  |  0.250  | 0.639 
+		(Wut    )	[1] : 0.499  |  0.388  | 0.501 
+		(Freude )	[2] : 0.340  |  0.251  | 0.660 
+
+Accumulated measures over the last 7 frames:
+Frame 34 bis 41	 Gefühl		 Nr : Pl(x)  |  B(x)   |  Z(x) 
+		(Angst  )	[0] : 0.007  |  0.007  | 0.993 
+		(Wut    )	[1] : 0.883  |  0.883  | 0.117 
+		(Freude )	[2] : 0.110  |  0.110  | 0.890 
+
+- - - - -
+
+read next frame:  FrameNr.: 42 | Unit5: 0 | Stirn: 246 | Mund: 140 
+
+Frame  42	 Gefühl		 Nr : Pl(x)  |  B(x)   |  Z(x) 
+		(Angst  )	[0] : 0.400  |  0.286  | 0.600 
+		(Wut    )	[1] : 0.570  |  0.456  | 0.430 
+		(Freude )	[2] : 0.236  |  0.144  | 0.764 
+
+Accumulated measures over the last 7 frames:
+Frame 35 bis 42	 Gefühl		 Nr : Pl(x)  |  B(x)   |  Z(x) 
+		(Angst  )	[0] : 0.006  |  0.006  | 0.994 
+		(Wut    )	[1] : 0.933  |  0.933  | 0.067 
+		(Freude )	[2] : 0.060  |  0.060  | 0.940 
+Feeling found: 'Wut    '[1]
+
+- - - - -
+
+read next frame:  FrameNr.: 43 | Unit5: 0 | Stirn: 197 | Mund: 133 
+
+Frame  43	 Gefühl		 Nr : Pl(x)  |  B(x)   |  Z(x) 
+		(Angst  )	[0] : 0.390  |  0.326  | 0.610 
+		(Wut    )	[1] : 0.600  |  0.535  | 0.400 
+		(Freude )	[2] : 0.126  |  0.075  | 0.874 
+
+Accumulated measures over the last 7 frames:
+Frame 36 bis 43	 Gefühl		 Nr : Pl(x)  |  B(x)   |  Z(x) 
+		(Angst  )	[0] : 0.016  |  0.016  | 0.984 
+		(Wut    )	[1] : 0.968  |  0.968  | 0.032 
+		(Freude )	[2] : 0.016  |  0.016  | 0.984 
+Feeling found: 'Wut    '[1]
+
+- - - - -
+
+read next frame:  FrameNr.: 44 | Unit5: 0 | Stirn: 265 | Mund: 112 
+
+Frame  44	 Gefühl		 Nr : Pl(x)  |  B(x)   |  Z(x) 
+		(Angst  )	[0] : 0.471  |  0.361  | 0.529 
+		(Wut    )	[1] : 0.545  |  0.434  | 0.455 
+		(Freude )	[2] : 0.183  |  0.095  | 0.817 
+
+Accumulated measures over the last 7 frames:
+Frame 37 bis 44	 Gefühl		 Nr : Pl(x)  |  B(x)   |  Z(x) 
+		(Angst  )	[0] : 0.040  |  0.040  | 0.960 
+		(Wut    )	[1] : 0.953  |  0.953  | 0.047 
+		(Freude )	[2] : 0.007  |  0.007  | 0.993 
+Feeling found: 'Wut    '[1]
+
+- - - - -
+
+read next frame:  FrameNr.: 45 | Unit5: 0 | Stirn: 147 | Mund: 101 
+
+Frame  45	 Gefühl		 Nr : Pl(x)  |  B(x)   |  Z(x) 
+		(Angst  )	[0] : 0.375  |  0.308  | 0.625 
+		(Wut    )	[1] : 0.646  |  0.579  | 0.354 
+		(Freude )	[2] : 0.100  |  0.047  | 0.900 
+
+Accumulated measures over the last 7 frames:
+Frame 38 bis 45	 Gefühl		 Nr : Pl(x)  |  B(x)   |  Z(x) 
+		(Angst  )	[0] : 0.065  |  0.065  | 0.935 
+		(Wut    )	[1] : 0.934  |  0.934  | 0.066 
+		(Freude )	[2] : 0.001  |  0.001  | 0.999 
+Feeling found: 'Wut    '[1]
+
+- - - - -
+
+read next frame:  FrameNr.: 46 | Unit5: 0 | Stirn: 192 | Mund: 113 
+
+Frame  46	 Gefühl		 Nr : Pl(x)  |  B(x)   |  Z(x) 
+		(Angst  )	[0] : 0.414  |  0.350  | 0.586 
+		(Wut    )	[1] : 0.594  |  0.531  | 0.406 
+		(Freude )	[2] : 0.107  |  0.056  | 0.893 
+
+Accumulated measures over the last 7 frames:
+Frame 39 bis 46	 Gefühl		 Nr : Pl(x)  |  B(x)   |  Z(x) 
+		(Angst  )	[0] : 0.081  |  0.081  | 0.919 
+		(Wut    )	[1] : 0.918  |  0.918  | 0.082 
+		(Freude )	[2] : 0.000  |  0.000  | 1.000 
+Feeling found: 'Wut    '[1]
+
+- - - - -
+
+read next frame:  FrameNr.: 47 | Unit5: 0 | Stirn: 272 | Mund: 111 
+
+Frame  47	 Gefühl		 Nr : Pl(x)  |  B(x)   |  Z(x) 
+		(Angst  )	[0] : 0.481  |  0.371  | 0.519 
+		(Wut    )	[1] : 0.537  |  0.427  | 0.463 
+		(Freude )	[2] : 0.180  |  0.092  | 0.820 
+
+Accumulated measures over the last 7 frames:
+Frame 40 bis 47	 Gefühl		 Nr : Pl(x)  |  B(x)   |  Z(x) 
+		(Angst  )	[0] : 0.094  |  0.094  | 0.906 
+		(Wut    )	[1] : 0.906  |  0.906  | 0.094 
+		(Freude )	[2] : 0.000  |  0.000  | 1.000 
+Feeling found: 'Wut    '[1]
+
+- - - - -
+
+read next frame:  FrameNr.: 48 | Unit5: 0 | Stirn: 146 | Mund: 122 
+
+Frame  48	 Gefühl		 Nr : Pl(x)  |  B(x)   |  Z(x) 
+		(Angst  )	[0] : 0.343  |  0.275  | 0.657 
+		(Wut    )	[1] : 0.657  |  0.589  | 0.343 
+		(Freude )	[2] : 0.122  |  0.068  | 0.878 
+
+Accumulated measures over the last 7 frames:
+Frame 41 bis 48	 Gefühl		 Nr : Pl(x)  |  B(x)   |  Z(x) 
+		(Angst  )	[0] : 0.070  |  0.070  | 0.930 
+		(Wut    )	[1] : 0.930  |  0.930  | 0.070 
+		(Freude )	[2] : 0.000  |  0.000  | 1.000 
+Feeling found: 'Wut    '[1]
+
+- - - - -
+
+read next frame:  FrameNr.: 49 | Unit5: 0 | Stirn: 171 | Mund: 108 
+
+Frame  49	 Gefühl		 Nr : Pl(x)  |  B(x)   |  Z(x) 
+		(Angst  )	[0] : 0.396  |  0.331  | 0.604 
+		(Wut    )	[1] : 0.617  |  0.552  | 0.383 
+		(Freude )	[2] : 0.104  |  0.052  | 0.896 
+
+Accumulated measures over the last 7 frames:
+Frame 42 bis 49	 Gefühl		 Nr : Pl(x)  |  B(x)   |  Z(x) 
+		(Angst  )	[0] : 0.064  |  0.064  | 0.936 
+		(Wut    )	[1] : 0.936  |  0.936  | 0.064 
+		(Freude )	[2] : 0.000  |  0.000  | 1.000 
+Feeling found: 'Wut    '[1]
+
+- - - - -
+
+read next frame:  FrameNr.: 50 | Unit5: 0 | Stirn: 279 | Mund: 129 
+
+Frame  50	 Gefühl		 Nr : Pl(x)  |  B(x)   |  Z(x) 
+		(Angst  )	[0] : 0.453  |  0.342  | 0.547 
+		(Wut    )	[1] : 0.537  |  0.427  | 0.463 
+		(Freude )	[2] : 0.209  |  0.121  | 0.791 
+
+Accumulated measures over the last 7 frames:
+Frame 43 bis 50	 Gefühl		 Nr : Pl(x)  |  B(x)   |  Z(x) 
+		(Angst  )	[0] : 0.081  |  0.081  | 0.919 
+		(Wut    )	[1] : 0.919  |  0.919  | 0.081 
+		(Freude )	[2] : 0.000  |  0.000  | 1.000 
+Feeling found: 'Wut    '[1]
+
+----- ----- ----- -----
+
+reading and calculating completetd
+read 50 frames
+Overall plausibility (note: zero if there are more than one feeling in the file)
+Frame 1 bis 50	 Gefühl		 Nr : Pl(x)  |  B(x)   |  Z(x) 
+		(Angst  )	[0] : 0.000  |  1.000  | 1.000 
+		(Wut    )	[1] : 0.000  |  1.000  | 1.000 
+		(Freude )	[2] : 0.000  |  1.000  | 1.000 
+
+
+Following feelings have been recognized with mind 0.900:
+		Angst  
+		Wut    
+
+
